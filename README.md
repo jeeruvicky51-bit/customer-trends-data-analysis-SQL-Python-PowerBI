@@ -60,3 +60,4 @@ Create project report
 
 Build presentation deck using Gamma AI
 
+C:\Users\Vicky\Pictures\Screenshots
