@@ -48,13 +48,13 @@ Open customer_behavior_sql_queries.sql
 
 Answer Business Questions using SQL Queries
 
-**Connect the SQL Database to Power BI**
+4.**Connect the SQL Database to Power BI**
 
 Open customer_behavior_dashboard.pbix
 
 Create interactive dashboard in Power BI
 
-**Create Project Report and Presentation**
+5.**Create Project Report and Presentation**
 
 Create project report
 
