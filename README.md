@@ -59,3 +59,5 @@ Create interactive dashboard in Power BI
 Create project report
 
 Build presentation deck using Gamma AI
+
+<img width="1281" height="700" alt="Image" src="https://github.com/user-attachments/assets/21ad0d95-35fa-4d1f-b4aa-032d649d42d7" />
